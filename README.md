@@ -9,7 +9,7 @@
   </a>
   <br>
   <a href="https://github.com/MuriloDholfy/loginLaravel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=transparent"/>
+    <img align="center" src="//github.com/MuriloDholfy/loginLaravel/?username=anuraghazra&repo=convoychat&theme=transparent"/>
   </a>
   <a href="https://github.com/MuriloDholfy/mrPetshop">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent"/>
