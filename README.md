@@ -1,5 +1,5 @@
 ## Olá!! Eu sou Murilo Dholfy, Programador Frontend
-<div align="center" >
+<div align="" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent" />
   </a>
@@ -18,9 +18,11 @@
   <br>
 </div>
   <br>
-<div align="center" >
+<div align="" >
+  <h1>Langs</h1>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,typescript" /> 
   <br>
+  <h1>Social</h1>
   <a href="https://instagram.com/dholfy_murilo" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" /></a> 
   <a href = "mailto:murilo.dholfy31@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
