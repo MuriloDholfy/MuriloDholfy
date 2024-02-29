@@ -1,18 +1,18 @@
 ## Olá!! Eu sou Murilo Dholfy, Programador 
 <div align="" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent" />
+  <a href="https://github.com/MuriloDholfy/MuriloDholfy/edit/main/README.md">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloDholfy&layout=compact&langs_count=8&card_width=200&theme=transparent" />
+  <a href="https://github.com/MuriloDholfy/MuriloDholfy/edit/main/README.md">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloDholfy&layout=compact&langs_count=8&card_width=200&theme=transparent"/>
   <br>
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=transparent" />
+  <a href="https://github.com/MuriloDholfy/MuriloDholfy/edit/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=transparent"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent" />
+  <a href="https://github.com/MuriloDholfy/MuriloDholfy/edit/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent"/>
   </a>
   
   <br>
