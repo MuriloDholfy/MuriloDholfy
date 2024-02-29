@@ -1,10 +1,10 @@
 ## Olá!! Eu sou Murilo Dholfy, Programador Frontend
 <div align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloDholfy&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloDholfy&layout=compact&langs_count=8&card_width=200&theme=transparent" />
   <br>
   </a>
   <br>
