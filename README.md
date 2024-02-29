@@ -1,82 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+## Olá!! Eu sou Murilo Dholfy, Programador Frontend
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/dholfy_murilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:murilo.dholfy31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/murilo-d-5a3804266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CSS glowing icons</title>
-  <link rel="stylesheet" href="style.css"> <!-- Caminho para o seu arquivo style.css -->
-  <link rel="stylesheet" href="font-awesome.min.css"> <!-- Caminho para o arquivo font-awesome.min.css -->
-</head>
 
-<body>
-  <div class="container">
-    <i class="fa fa-apple" id="apple"></i>
-    <i class="fa fa-twitter" id="twitter"></i>
-    <i class="fa fa-github-square github" id="github"></i>
-    <i class="fa fa-facebook-square" id="facebook"></i>
-  </div>
-</body>
-
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-  }
-
-  body {
-    height: 100vh;
-    width: 100vw;
-    background: #18191f;
-  }
-
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    width: 100vw;
-  }
-
-  #apple,
-  #twitter,
-  #github,
-  #facebook {
-    font-size: 8em;
-    background-color: #18191f;
-    color: #fff;
-    box-shadow: 2px 2px 2px #00000080, 10px 1px 12px #00000080,
-      2px 2px 10px #00000080, 2px 2px 3px #00000080, inset 2px 2px 10px #00000080,
-      inset 2px 2px 10px #00000080, inset 2px 2px 10px #00000080,
-      inset 2px 2px 10px #00000080;
-    border-radius: 29px;
-    padding: 11px 19px;
-    margin: 0 40px;
-    animation: animate 3s linear infinite;
-    text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
-      0 0 200px #0072ff;
-  }
-
-  #twitter {
-    animation-delay: 0.3s;
-  }
-
-  #facebook {
-    animation-delay: 0.7s;
-  }
-
-  #github {
-    animation-delay: 0.1s;
-  }
-
-  @keyframes animate {
-    from {
-      filter: hue-rotate(0deg);
-    }
-    to {
-      filter: hue-rotate(360deg);
-    }
-  }
-</style>
-
-</html>
+</div>
