@@ -1,4 +1,4 @@
-## Olá!! Eu sou Murilo Dholfy, Programador Frontend
+## Olá!! Eu sou Murilo Dholfy, Programador 
 <div align="" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent" />
