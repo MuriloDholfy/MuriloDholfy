@@ -16,10 +16,8 @@
     <i class="fa fa-facebook-square" id="facebook"></i>
   </div>
 </body>
-
-</html>
-
-* {
+<style>
+  * {
   margin: 0;
   padding: 0;
 }
@@ -71,3 +69,7 @@ body {
     filter: hue-rotate(360deg);
   }
 }
+
+</style>
+</html>
+
