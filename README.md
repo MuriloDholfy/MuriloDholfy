@@ -20,7 +20,7 @@
   <br>
 <div align="" >
   <h1>Langs</h1>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,typescript" /> 
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react,vscode,github,figma,git,typescript,java,laravel,php,npm" /> 
   <br>
   <h1>Social</h1>
   <a href="https://instagram.com/dholfy_murilo" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
