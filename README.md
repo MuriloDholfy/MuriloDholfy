@@ -26,7 +26,7 @@
   <a href="https://instagram.com/dholfy_murilo" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" /></a> 
   <a href = "mailto:murilo.dholfy31@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+  <a href="https://www.linkedin.com/in/murilo-d-5a3804266/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 
 
 
