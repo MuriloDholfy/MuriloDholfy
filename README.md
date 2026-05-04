@@ -1,10 +1,6 @@
 ## Olá!! Eu sou Murilo Dholfy, Programador 
 <div align="" >
-  <a href="https://github.com/MuriloDholfy/MuriloDholfy/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloDholfy&card_width=200&theme=transparent"/>
-  </a>
-  <a href="https://github.com/MuriloDholfy/MuriloDholfy/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloDholfy&layout=compact&langs_count=8&card_width=200&theme=transparent"/>
+  
   <br>
   </a>
   <br>
